@@ -4,13 +4,18 @@ Task is to find the most famous personality or entity in the dataset through kno
 
 Dataset
 ---------------
+wiki_sentences_v2.csv
+
 
 Libraries:
 ----------------
-Panda
-Request
-re
-spacy
+# Panda
 
-Google Colab
-Python 3.9
+# Request
+
+# re
+
+# spacy
+
+# Google Colab
+# Python 3.9
